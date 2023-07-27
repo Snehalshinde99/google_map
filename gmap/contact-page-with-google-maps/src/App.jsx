@@ -9,6 +9,7 @@ import FooterSection from './components/footer/Footer'
 
 import './App.css'
 
+
 const location = {
   address: '1600 Amphitheatre Parkway, Mountain View, california.',
   lat: 37.42216,
